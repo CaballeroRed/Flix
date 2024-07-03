@@ -1,0 +1,28 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "nombre": "funcion flecha o arrow function",
+      "urlVideo": "https://www.youtube.com/watch?v=2SetvwBV-SU&list=PLvq-jIkSeTUZ6QgYYO3MwG9EMqC-KoLXA",
+      "urlImagen": "https://www.mytaskpanel.com/wp-content/uploads/2023/05/consulting-blog-12.webp",
+      "descripcion": "javascript arrow function",
+      "categoria": "Front End"
+    },
+    {
+      "id": "2",
+      "nombre": "front end",
+      "urlVideo": "https://www.youtube.com/watch?v=n189TdfbQIA",
+      "urlImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEVDEFcK8QGfSJmgw1DjeM203GRH3hX_rNyQ&s",
+      "descripcion": "el mejor camino para desarrollador frontend",
+      "categoria": "Front End"
+    },
+    {
+      "id": "3",
+      "nombre": "back end",
+      "urlVideo": "https://www.youtube.com/watch?v=i9M7gdzlA7I",
+      "urlImagen": "https://www.dongee.com/tutoriales/content/images/2023/01/backend.png",
+      "descripcion": "la gran demanda de los desarrolladores backend aplia la brecha",
+      "categoria": "Back End"
+    }
+  ]
+}
